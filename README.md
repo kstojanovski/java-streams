@@ -6,6 +6,7 @@ A stream is a sequence of elements and we can perform sequential operations when
 Link about this information:
 * http://www.java2s.com/Tutorials/Java/Java_Stream/index.htm
 * http://tutorials.jenkov.com/java-functional-programming/streams.html
+* https://docs.oracle.com/javase/8/docs/api/java/util/stream/Stream.html
 
 ## Streams Objects
 
